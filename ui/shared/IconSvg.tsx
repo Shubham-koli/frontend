@@ -3,7 +3,7 @@ import { Skeleton, chakra } from '@chakra-ui/react';
 import { type IconName } from 'public/icons/name';
 import React from 'react';
 
-export const href = '/icons/sprite.svg';
+export const href = '/icons/gr1d.svg';
 
 export { IconName };
 
